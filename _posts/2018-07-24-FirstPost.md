@@ -1,3 +1,8 @@
+---
+title: "Welcome to my first GitHub Blog"
+date: 2018-07-24
+---
+
 # Learning the ways of GitHub
 
 Today, I began a course on GitHub called GitHub Learning Lab. This online, virtual course guides the student through a variety of tasks.
@@ -16,5 +21,5 @@ Courses I did today:
 
 Courses I plan to do:
 - [ ] [Github Pages](https://lab.github.com/courses/github-pages)
-- [ ] [Introduction to HTML)(https://lab.github.com/courses/introduction-to-html)
+- [ ] [Introduction to HTML](https://lab.github.com/courses/introduction-to-html)
 
